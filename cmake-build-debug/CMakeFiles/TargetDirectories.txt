@@ -1,0 +1,3 @@
+C:/CLION/UPF/code/Practiques/l3_code_students/cmake-build-debug/CMakeFiles/snakesnladders.dir
+C:/CLION/UPF/code/Practiques/l3_code_students/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLION/UPF/code/Practiques/l3_code_students/cmake-build-debug/CMakeFiles/rebuild_cache.dir
